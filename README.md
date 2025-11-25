@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlamCodeJourney
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Php Laravel           Development
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
