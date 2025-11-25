@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlamCodeJourney
 - 👀 I’m interested in Php Laravel           Development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
